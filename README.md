@@ -79,7 +79,7 @@ A centralized hub providing an at-a-glance summary of your financial status:
 
 ---
 
-## 🛠️ Getting Started
+## Getting Started
 
 ### Prerequisites
 Make sure you have [Node.js](https://nodejs.org/) installed on your machine.
@@ -88,5 +88,9 @@ Make sure you have [Node.js](https://nodejs.org/) installed on your machine.
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/your-username/pfet.git](https://github.com/your-username/pfet.git)
-   cd pfet
+   git clone [https://github.com/Anwar0904/personal-finance-and-expense-tracker.git]
+
+   cd personal-finance-and-expense-tracker
+
+
+   
