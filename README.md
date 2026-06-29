@@ -67,7 +67,7 @@ A centralized hub providing an at-a-glance summary of your financial status:
 
 ## Non-Functional Requirements
 
-### ⚡ Performance & Quality
+### Performance & Quality
 *   **Speed:** Fast page loads utilizing optimized images and code splitting/lazy loading where appropriate.
 *   **Codebase:** Strongly typed with **TypeScript**, enforced by **ESLint** and **Prettier** formatting guidelines.
 *   **Workflows:** Meaningful semantic commit messages and clean, reusable component architecture.
